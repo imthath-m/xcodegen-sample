@@ -1,0 +1,12 @@
+// Copyright © 2020 SkyDevz. All rights reserved.
+
+DEVELOPMENT_TEAM = YOUR-TEAM-ID
+
+APP_NAME = Sample
+BUNDLE_ID_PREFIX = com.your-org.your-app
+URL_SCHEME_PREFIX = your-app
+
+APP_VERSION = 0.1
+
+CODE_SIGN_STYLE = Automatic
+CODE_SIGN_IDENTITY = Apple Development
